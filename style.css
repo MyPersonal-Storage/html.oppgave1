@@ -1,3 +1,8 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
 body {
   background-color: blanchedalmond;
 }
@@ -20,6 +25,28 @@ main {
   text-align: center;
   min-width: 100svw;
   padding-top: 20px;
-  border-spacing: 50px 0px;
+  border-spacing: 300px;
   padding-bottom: 20px;
+}
+
+#first {
+  height: 0px;
+  width: 400px;
+  margin: 0px auto;
+  padding: auto;
+}
+#second {
+  height: 0px;
+  width: 400px;
+  margin: 0px auto;
+  padding: auto;
+}
+#third {
+  height: 0px;
+  width: 400px;
+  margin: 0px auto;
+  padding: auto;
+}
+img {
+  height: 80%;
 }
