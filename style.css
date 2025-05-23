@@ -1,3 +1,16 @@
 body {
   background-color: blueviolet;
 }
+header {
+  min-width: 100svw;
+  height: 100px;
+  text-align: center;
+  padding: auto;
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  color: gold;
+  -webkit-text-stroke: 1px black;
+}
