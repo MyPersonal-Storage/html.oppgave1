@@ -15,3 +15,11 @@ h1 {
   color: #ffd700;
   -webkit-text-stroke: 2.5px black;
 }
+main {
+  min-height: 100svh;
+  text-align: center;
+  min-width: 100svw;
+  padding-top: 20px;
+  border-spacing: 50px 0px;
+  padding-bottom: 20px;
+}
