@@ -4,6 +4,7 @@ body {
 header {
   min-width: 100svw;
   height: 100px;
+  background-color: olive;
   text-align: center;
   padding: auto;
 }
